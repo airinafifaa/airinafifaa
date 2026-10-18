@@ -5,16 +5,16 @@
 Information Systems Student  
 at University Trunodjoyo Madura 🎓
 
-Currently learning Python and exploring the world of programming.
+Currently learning Python and exploring the world of programming
 
-*Pelan-pelan belajar, sedikit demi sedikit berkembang.*
+*Pelan-pelan belajar, sedikit demi sedikit berkembang*
 
 </div>
 
 ---
 ## My Learning Journey
 
-I'm still a beginner, jadi masih banyak hal yang ingin aku pelajari.
+I'm still a beginner, jadi masih banyak hal yang ingin aku pelajari
 
 One step at a time, one line of code at a time ♡
 
