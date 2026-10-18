@@ -47,11 +47,9 @@ One step at a time, one line of code at a time. ♡
 
 </div>
 
-## 💌 Let's Connect!
+## 💌 Let's Connect
 
 <div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-airinafifaa-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/airinafifaa)
 
 [![Instagram](https://img.shields.io/badge/Instagram-My%20Profile-EA8AB5?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/airenpiph/)
 
