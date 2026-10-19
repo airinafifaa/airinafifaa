@@ -1,20 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0D0D,100:DB78A8&height=180&section=header&text=Hai%2C%20I%27m%20Airin%20Afifah&fontSize=42&fontColor=FFD6E8&animation=fadeIn&fontAlignY=50" width="100%" alt="Pink and black banner"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0D0D,100:DB78A8&height=180&section=header&text=Hii%2C%20I%27m%20Airin%20Afifah&fontSize=42&fontColor=FFD6E8&animation=fadeIn&fontAlignY=50" width="100%" alt="Pink and black banner"/>
 
 Information Systems Student  
 at University Trunodjoyo Madura 🎓
 
 Currently learning Python and exploring the world of programming
 
-*Pelan-pelan belajar, sedikit demi sedikit berkembang*
+*take it slow to learn grow step by step*
 
 </div>
 
 ---
 ## My Learning Journey
 
-I'm still a beginner, jadi masih banyak hal yang ingin aku pelajari
+I'm still a beginner
 
 One step at a time, one line of code at a time ♡
 
